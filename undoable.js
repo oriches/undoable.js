@@ -1,4 +1,4 @@
-﻿//     undoable.js 0.1.0
+﻿//     undoable.js 1.0
 //     (c) 2012 Ollie Riches
 //     undoable.js may be freely distributed under the MIT license.
 //     For all details and documentation:
