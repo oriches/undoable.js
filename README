@@ -1,3 +1,5 @@
 undoable.js
 
 Simple undo-redo framework for javascript with no dependancies
+
+undoable.js is licensed under the Apache license 2.0. Please see LICENSE for more detail.
